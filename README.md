@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Julian], a passionate developer with 2 years of hands-on experience in the world of coding. 🚀
+I'm Julian, a passionate developer with 2 years of hands-on experience in the world of coding. 🚀
 
 ## About Me
 
